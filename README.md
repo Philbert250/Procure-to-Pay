@@ -93,7 +93,7 @@ Procure-to-Pay/
 1. **Clone the repository**:
    ```bash
    git clone <repository-url>
-   cd IST_Assessment_Python_React
+   cd Procure-to-Pay
    ```
 
 2. **Set up Python virtual environment**:
