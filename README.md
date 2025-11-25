@@ -303,8 +303,8 @@ Built as part of the IST Africa Full Stack Python/Django Developer assessment.
 
 ## 🙏 Acknowledgments
 
-- Django REST Framework
-- React
+- Django REST Framework | Python
+- React 
 - Google Gemini API (free AI alternative)
 - Fly.io for hosting
 
