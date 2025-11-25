@@ -43,7 +43,7 @@ A full-stack **Procure-to-Pay** system built with Django REST Framework (backend
 ## 📁 Project Structure
 
 ```
-IST_Assessment_Python_React/
+Procure-to-Pay/
 ├── backend/                    # Django backend
 │   ├── procure_to_pay/        # Django project settings
 │   ├── procurement/           # Main app
