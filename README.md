@@ -6,7 +6,7 @@ A full-stack **Procure-to-Pay** system built with Django REST Framework (backend
 
 - **Purchase Request Management**: Staff can create, view, and manage purchase requests
 - **Multi-Level Approval Workflow**: Configurable approval levels with parallel approval support
-- **AI-Powered Document Processing**: Automatic extraction of data from proforma invoices using Google Gemini API
+- **AI-Powered Document Processing**: Automatic extraction of data from proforma invoices using Google Gemini API, with OCR fallback (pytesseract) if AI processing fails
 - **Purchase Order Generation**: Automatic PO generation upon final approval
 - **Receipt Validation**: Compare receipts against purchase orders to flag discrepancies
 - **Role-Based Access Control**: Staff, Approvers (Level 1/2), Finance, and Admin roles
